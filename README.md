@@ -1,2 +1,3 @@
 # IEMD-MWNN
 利用改进EMD与记忆性WNN来预测单维数据
+WNN单隐含层是只有单隐含层的WNN网络，WNN5是再WNN4的基础上进行改进，使其变成多隐含层WNN
